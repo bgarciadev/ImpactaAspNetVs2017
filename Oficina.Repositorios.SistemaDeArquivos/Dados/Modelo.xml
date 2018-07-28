@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Elemetos-->
+<modelos>
+  <modelo>
+    <id>1</id>
+    <nome>Onix</nome>
+    <marcaId>1</marcaId>
+  </modelo>
+  <modelo>
+    <id>2</id>
+    <nome>Argo</nome>
+    <marcaId>2</marcaId>
+  </modelo>
+  <modelo>
+    <id>3</id>
+    <nome>Jetta</nome>
+    <marcaId>3</marcaId>
+  </modelo>
+  <modelo>
+    <id>4</id>
+    <nome>Golf</nome>
+    <marcaId>3</marcaId>
+  </modelo>
+  <modelo>
+    <id>5</id>
+    <nome>Prisma</nome>
+    <marcaId>1</marcaId>
+  </modelo>
+  <modelo>
+    <id>6</id>
+    <nome>Renegage</nome>
+    <marcaId>4</marcaId>
+  </modelo>
+
+</modelos>
